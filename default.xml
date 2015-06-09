@@ -10,7 +10,7 @@
 		name="hanw/p4-hlir.git" remote="origin" />
 
 	<project path="p4c-behavioral"
-		name="hanw/p4c-behaviroal.git" remote="origin" />
+		name="hanw/p4c-behavioral.git" remote="origin" />
 
 	<project path="p4c-graphs"
 		name="hanw/p4c-graphs.git" remote="origin" />
